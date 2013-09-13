@@ -1,1 +1,3 @@
-Welcome to PI
+<?php
+echo "Welcome to PI";
+?>
