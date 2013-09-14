@@ -1,3 +1,15 @@
+html {
+background-color:#FFEF00;
+}
+
 header { 
 display:block;
+font-family: 'Kelly Slab', cursive;
+text-align:center;
+
 }
+
+p {
+font-family: 'Oleo Script Swash Caps', cursive;
+}
+

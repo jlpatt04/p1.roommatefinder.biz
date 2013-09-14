@@ -1,9 +1,10 @@
 <!doctype html>
 <html lang ="en">
 <head>
+<link href='http://fonts.googleapis.com/css?family=Kelly+Slab' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="index.css">
 <title> Welcome to PI </title>
 <meta charset = "utf-8">
-<link rel="stylesheet" href="index.css">
 <!--[if IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
@@ -36,6 +37,8 @@ Indian, Mexican, Ethiopian,  and Asian(Sushi). I love anything spicy and flavorf
 
 <p> Thanks for reading and I'm looking forward to building a "Dynamic Web 
 Application"! </p>
+
+<p> PS I'm using TextWrangler :) </p>
 
 </section>
 </body>
