@@ -9,6 +9,7 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 </head>
+
 <body>
 <header> 
 <h1>About Me</h1>
@@ -16,31 +17,28 @@
 <img src="me.jpg" alt="Me" height="100" width="100">
 </header>
 
-<body>
-<section> 
-
-<p> My name is Jennifer Patten. Most people call me Jen.  I'm from upstate New York. 
+<p>My name is Jennifer Patten. Most people call me Jen.  I'm from upstate New York. 
 No, it's not even close to NYC. Port Henry is a small town you have never heard of. Situated in 
 in the Adirondack Mountains, it's a place of relaxation and nature.</p>
 
-<p> I studied Economics and Spanish at St. Lawrence University. I wish I 
+<p>I studied Economics and Spanish at St. Lawrence University. I wish I 
 would have taken a computer science course, but I didn't know very much about
 computer programming at that time. I also didn't have one friend who studied
 programming. Who would think 8 years later I'm really enjoying programing? After six months 
 of dabbling in control structures and loops, I'm starting to understand how I can use programming 
 concepts to build something beautiful.</p>
 
-<p> What do I do for fun? Well I've been very busy lately with preparing
-for my classes and learning, but I'm looking forward to doing a little
-skiing this winter. I also enjoy being active and cooking different cuisines. My favorites are 
-Indian, Mexican, Ethiopian,  and Asian(Sushi). I love anything spicy and flavorful! </p>
+<p>What do I do for fun? I enjoy reading and staying up to date with what's happening
+around the globe. I recently finished "Dreams from my Father" and "A Reason to Believe". Obama and 
+Deval Patrick's biographies inspire me not only to do great things in my life, but to give back to society
+and make an impact in my corner of the world. On a lighter note, I really enjoy skiing in the winter. It's
+such an exhilarating sport. Additionally, I enjoy being active and cooking different cuisines. My favorites
+are Indian, Mexican, Ethiopian, and Asian(Sushi). I love anything spicy and flavorful! </p>
 
-<p> Thanks for reading and I'm looking forward to building a "Dynamic Web 
+<p>Thanks for reading and I'm looking forward to building a "Dynamic Web 
 Application"! </p>
 
 <p> PS I'm using TextWrangler :) </p>
 
-</section>
 </body>
-
 </html>

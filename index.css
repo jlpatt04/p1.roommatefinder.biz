@@ -6,10 +6,15 @@ header {
 display:block;
 font-family: 'Kelly Slab', cursive;
 text-align:center;
-
 }
 
 p {
 font-family: 'Oleo Script Swash Caps', cursive;
+text-align:center;
 }
 
+.columns {
+-moz-column-count:3; /* Firefox */
+-webkit-column-count:3; /* Safari and Chrome */
+column-count:3;
+}
