@@ -13,7 +13,7 @@
 <body>
 <header> 
 <h1>About Me</h1>
-<p> "Getting to know me a little better"</p>
+<p> "Getting to know me a little better"	</p>
 <img src="me.jpg" alt="Me" height="100" width="100">
 </header>
 
@@ -29,8 +29,7 @@ programming. Who would think 8 years later I'm really enjoying programing? After
 of dabbling in control structures,loops and variables, I'm starting to understand how I 
 can use programming concepts to build something beautiful.</p>
 
-<p>What do I do for fun? I enjoy reading and staying up to date with current events. AKA I am
-an avid tweeter and I don't use facebook. I recently finished "Dreams from my Father" and "A 
+<p>What do I do for fun? I enjoy reading and staying up to date with current events. I recently finished "Dreams from my Father" and "A 
 Reason to Believe". Barrack Obama and Deval Patrick's biographies inspire me not only to do 
 great things in my life, but to give back to society and make an impact in my corner of the world.
 On a lighter note, I really enjoy skiing in the winter. It's such an exhilarating sport. Additionally,
